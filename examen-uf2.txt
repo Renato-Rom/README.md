@@ -1,1 +1,10 @@
 "EXAMEN UF2"
+Git clone para clonar el repositorio
+
+Git status  para comprobar el estado del repositorio. 
+
+Git add para subir el archivo txt al repositorio de github
+
+git push   para actualizar los cambios a tu repositorio local
+
+Git log   para mostrar el log de todas las actualizaciones. 
